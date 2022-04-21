@@ -1,2 +1,2 @@
-# ed-marco-1
+# ED Marco 1
 Mi primer repositorio remoto
